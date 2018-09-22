@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>YOUHUO_LOCAL.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>A4BC0A1C2CDCDFDB332E02D3928EF176B2751FAD</string>
+				<key>dateExpires</key>
+				<string>2019/6/2</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>X3KF63X7J7.com.zhanhao.yoho</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>X3KF63X7J7</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>YOUHUO_LOCAL.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>8e49e596-75bb-41db-9e25-aef96e427c4a</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.zhanhao.yoho</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>X3KF63X7J7</string>
+				<key>name</key>
+				<string></string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
