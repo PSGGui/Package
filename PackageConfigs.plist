@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>BACKUP</key>
-	<string>YOUHUO YOUHUO_LOCAL YOUHUO_TEST</string>
+	<string>Release Local Test</string>
 	<key>schemes</key>
-	<string>YOUHUO_LOCAL</string>
+	<string>Release Local Test</string>
 	<key>YOUHUO_export_info</key>
 	<string>Release.plist</string>
 	<key>YOUHUO_export_mode</key>
