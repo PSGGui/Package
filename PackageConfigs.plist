@@ -3,30 +3,30 @@
 <plist version="1.0">
 <dict>
 	<key>BACKUP</key>
-	<string>Release Local Test</string>
+	<string>XXX_Release XXX_Local XXX_Test</string>
 	<key>schemes</key>
-	<string>Release Local Test</string>
-	<key>YOUHUO_export_info</key>
-	<string>Release.plist</string>
-	<key>YOUHUO_export_mode</key>
+	<string>XXX_Release XXX_Local XXX_Test</string>
+	<key>XXX_Release_export_info</key>
+	<string>XXX_Release.plist</string>
+	<key>XXX_Release_export_mode</key>
 	<string>Release</string>
-	<key>YOUHUO_update_app_store_username</key>
-	<string>2880683182@qq.com</string>
-	<key>YOUHUO_update_app_store_password</key>
-	<string>tr06jg1A</string>
-	<key>YOUHUO_LOCAL_export_info</key>
-	<string>Local.plist</string>
-	<key>YOUHUO_LOCAL_export_mode</key>
+	<key>XXX_Release_update_app_store_username</key>
+	<string></string>
+	<key>XXX_Release_update_app_store_password</key>
+	<string></string>
+	<key>XXX_Local_export_info</key>
+	<string>XXX_Local.plist</string>
+	<key>XXX_Local_export_mode</key>
 	<string>Debug</string>
-	<key>YOUHUO_LOCAL_update_pgyer_u_key</key>
-	<string>aa96f770a168a41891a5eb3401631b75</string>
-	<key>YOUHUO_LOCAL_update_pgyer_api_key</key>
-	<string>9b4ebee4e731ffa965d3d17c90f081a4</string>
-	<key>YOUHUO_TEST_export_info</key>
-	<string>Test.plist</string>
-	<key>YOUHUO_TEST_export_mode</key>
+	<key>XXX_Local_update_pgyer_u_key</key>
+	<string></string>
+	<key>XXX_Local_update_pgyer_api_key</key>
+	<string></string>
+	<key>XXX_Test_export_info</key>
+	<string>XXX_Test.plist</string>
+	<key>XXX_Test_export_mode</key>
 	<string>Debug</string>
-	<key>YOUHUO_TEST_update_fir_token</key>
-	<string>0653c5cb35b0c840fae99579bd025a5b</string>
+	<key>XXX_Test_update_fir_token</key>
+	<string></string>
 </dict>
 </plist>
